@@ -1,0 +1,22 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+17d3xk3,What is data engineering *not*?,58,76,No_Newspaper3209,2023-10-21 14:34:12,https://www.reddit.com/r/dataengineering/comments/17d3xk3/what_is_data_engineering_not/,False,False,False,False
+17d8xv3,Is Apache Beam still popular for Data Engineering?,39,15,HealthBigDataGuy,2023-10-21 18:24:09,https://www.reddit.com/r/dataengineering/comments/17d8xv3/is_apache_beam_still_popular_for_data_engineering/,False,False,False,False
+17dh3xg,Does Databricks Spark offer any performance benefits compared to the fully open source Spark or managed Spark?,23,20,Rengar-Pounce,2023-10-22 00:46:43,https://www.reddit.com/r/dataengineering/comments/17dh3xg/does_databricks_spark_offer_any_performance/,False,False,False,False
+17d375d,What is the best way to Ingest large tall tables in snowflake from different data system,15,15,fjrirjdjdi027,2023-10-21 13:59:25,https://www.reddit.com/r/dataengineering/comments/17d375d/what_is_the_best_way_to_ingest_large_tall_tables/,False,False,False,False
+17dnmln,Migrating away from Snowflake?,12,9,sb2nov,2023-10-22 07:16:23,https://www.reddit.com/r/dataengineering/comments/17dnmln/migrating_away_from_snowflake/,False,False,False,False
+17d4w6g,Speeding up transition between EDA and engineering,5,6,suspicious_williams,2023-10-21 15:18:58,https://www.reddit.com/r/dataengineering/comments/17d4w6g/speeding_up_transition_between_eda_and_engineering/,False,False,False,False
+17dnhdg,Data Engineering Project Scoping / Quantifying,4,0,phmark19,2023-10-22 07:06:28,https://www.reddit.com/r/dataengineering/comments/17dnhdg/data_engineering_project_scoping_quantifying/,False,False,False,False
+17dqs3n,Seeking advice on next steps,2,6,eldobhatobugyi,2023-10-22 11:02:59,https://www.reddit.com/r/dataengineering/comments/17dqs3n/seeking_advice_on_next_steps/,False,False,False,False
+17dhz8x,ETL on snowflake,2,9,Professional-Ninja70,2023-10-22 01:32:10,https://www.reddit.com/r/dataengineering/comments/17dhz8x/etl_on_snowflake/,False,False,False,False
+17d6rcu,How to Speed Up Spark Jobs on Small Test Datasets,2,0,luminoumen,2023-10-21 16:44:11,https://luminousmen.com/post/how-to-speed-up-spark-jobs-on-small-test-datasets,False,False,False,False
+17d6fs7,Integration with CDP,2,3,cyamnihc,2023-10-21 16:29:17,https://www.reddit.com/r/dataengineering/comments/17d6fs7/integration_with_cdp/,False,False,False,False
+17dpusy,Best platforms to prepare for cloud certifications,1,1,zak_hj,2023-10-22 09:59:15,https://www.reddit.com/r/dataengineering/comments/17dpusy/best_platforms_to_prepare_for_cloud_certifications/,False,False,False,False
+17dp33n,dbutils.fs.mv databricks,1,0,TheVictarion,2023-10-22 09:02:11,https://www.reddit.com/r/dataengineering/comments/17dp33n/dbutilsfsmv_databricks/,False,False,False,False
+17do4uu,Magical Software Sucks,1,0,heninkguy,2023-10-22 07:52:13,https://dodov.dev/blog/magical-software-sucks,False,False,False,False
+17dkzqr,SSIS alternate for data pipeline?,1,5,BrownCoder,2023-10-22 04:19:46,https://www.reddit.com/r/dataengineering/comments/17dkzqr/ssis_alternate_for_data_pipeline/,False,False,False,False
+17deqy0,Looking to Learn Druid - Any Resources and Project Ideas?,1,1,poolyhymnia,2023-10-21 22:49:58,https://www.reddit.com/r/dataengineering/comments/17deqy0/looking_to_learn_druid_any_resources_and_project/,False,False,False,False
+17de3uk,Best Complementary Language for Data Platform/DataOps/Cloud Data Engineers?,1,7,jduran9987,2023-10-21 22:20:26,https://www.reddit.com/r/dataengineering/comments/17de3uk/best_complementary_language_for_data/,False,False,False,False
+17d8lwm,Need Advice! Worth it to Switch Roles? Data Engineering to SRE,0,7,unpopulah,2023-10-21 18:08:53,https://www.reddit.com/r/dataengineering/comments/17d8lwm/need_advice_worth_it_to_switch_roles_data/,False,False,False,False
+17d73ak,Stream processing - Flink debugging,1,0,springRock88,2023-10-21 16:59:38,https://www.reddit.com/r/dataengineering/comments/17d73ak/stream_processing_flink_debugging/,False,False,False,False
+17d2ocf,Scala Spark Tutorial,1,1,anaksimandros0,2023-10-21 13:33:04,https://www.reddit.com/r/dataengineering/comments/17d2ocf/scala_spark_tutorial/,False,False,False,False
+17drwwp,"Really confused on the core concepts of Spark for my Databricks Spark Developer certification exam coming up. Any helpful advice, please?",1,1,thebestnobody,2023-10-22 12:14:35,https://www.reddit.com/r/dataengineering/comments/17drwwp/really_confused_on_the_core_concepts_of_spark_for/,False,False,False,False
